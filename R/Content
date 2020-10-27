@@ -1,10 +1,23 @@
 Skills Tracks
 
-Big Data with R
-  Writing Efficient R Code
-  Visualizing Big Data with Trelliscope in R
-  Scalable Data Processing in R
-  Introduction to Spark with sparklyr in R
-  Parallel programming in R
-  
-  
+===========================
+
+R Programming 
+	Introduction to R 
+	Intermediate R 
+	Writing Efficient R Code 
+	Parallel Programming in R 
+	R Programming 
+	
+Importing & Cleaning Data 
+	Introduction to Importing Data in R 
+	Intermediate Importing Data in R 
+	Cleaning Data in R 
+	Working with Data in the Tidyverse 
+	
+Data Manipulation 
+	Data Manipulation with dplyr 
+	Joining Data with dplyr
+	Case Study: Exploratory Data Analysis in R 
+	Data Manipulation with data.table in R 
+	Joining Data with data.table in R 
