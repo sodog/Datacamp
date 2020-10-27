@@ -21,3 +21,32 @@ Data Manipulation
 	Case Study: Exploratory Data Analysis in R 
 	Data Manipulation with data.table in R 
 	Joining Data with data.table in R 
+
+Statistic Fundamentals 
+	Introduction to Data in R 
+	Exploratory Data Analysis in R 
+	Correlation and Regression in R 
+	Multiple and logistic Regression in R 
+	Experimental Design in R 
+	
+Data Visualization 
+	Introduction to Data Visualization with ggplot2 
+	Intermediate Data Visualization with ggplot2
+	Visualization Best Practices in R 
+	
+Time Series
+	Manipulating Time Series Data with its and zoo in R 
+	Time Series Analysis in R 
+	ARIMA Models in R 
+	Forecasting in R 
+	Visualizing Time Series Data in R 
+	Case Studies: Manipulating Time Series Data in R 
+
+Applied Finance 
+	Quantitative Risk Management in R 
+	Equity Valuation in R 
+	Life Insurance products valuation in R 
+	Bon Valuation and Analysis in R 
+	Financial Trading in R 
+	Credit Risk Modeling in R 
+	GARCH Models in R 
