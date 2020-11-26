@@ -64,3 +64,16 @@ Machine Learning Fundamentals in R
 	Supervised learning in R: Regression
 	Unsupervised learning in R
 	Machine Learning with caret in R
+	
+Text Mining with R
+	Introduction to text Analysis in R
+	String Manipulation with stringr in R
+	Text Mining with Bag-Of Words in R
+	Sentiment Analysis in R
+	
+Spatial Data with R
+	Visualizing Geospatial Data in R
+	Spatial Analysis with sf and raster in R
+	Spatial Statistics in R
+	Interactive Maps with leafet in R
+	
