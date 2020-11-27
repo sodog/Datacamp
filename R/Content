@@ -155,5 +155,8 @@ Intermediate Tidyverse Toolbox
 	Machine Learning in the Tidyverse
 
 Analyzing Genomic Data 
-
-
+	Introduction to Bioconductor in R
+	RNA-Seq with Bioconductor in R
+	Differential Expression Analysis with limma in R 
+	Single-Cell RNA-Seq with Bioconductor in R
+	ChIP-seq with Bioconductor in R
