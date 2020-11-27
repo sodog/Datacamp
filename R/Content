@@ -83,10 +83,13 @@ Shiny Fundamentals
 	Building Dashboards with Shinydashboard
 	Building Dashboards with flexdashboard 
 	
-
 Big Data 
-
-
+	Writing Efficient R Code
+	Visualizing Big Data with Treliscope in R 
+	Scalable Data Processing in R 
+	Introduction to Spark with sparklyr in R
+	Parallel Programming in R 
+	
 Tidyverse Fundamentals 
 
 
